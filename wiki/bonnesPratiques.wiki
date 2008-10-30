@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels Phase-Support
+
+= Bonnes Pratiques =
+
+Afin de faciliter la communication entre tous les membres de l'équipe qui travaille sur le site Web de Mobilib', voici quelques suggestions :
+  * lors de la création d'une entrée dans la partie Issues de ce site, mettre toute l'équipe en copie dans la partie *Cc:* . Ca permettra à tout le monde d'être au courant de l'avancée de tous les points.
+  * Si une Issue devait donner lieu à _beaucoup_ d'échanges via les commentaires, penser à retirer les personnes non concernées
+  * Une fois l'Issue close, penser à mettre un commentaire pour expliquer grosso modo ce qui a été fait.
+
+Si vous avez d'autres suggestions, n'hésitez pas à modifier cette page.
