@@ -5,9 +5,6 @@
 Bienvenue sur le site de gestion communautaire du site web de Mobilib
 
 
-= Details =
+= Equipe =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Suite à la réunion du 26 septembre 2008, une équipe de 4 personnes s'est constituée pour permettre la maintenance et l'évolution du site Web de l'association Mobilib.
