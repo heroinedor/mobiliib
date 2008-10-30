@@ -11,7 +11,7 @@ Lors de la création
   * Si une Issue devait donner lieu à _beaucoup_ d'échanges via les commentaires, penser à retirer les personnes non concernées
 
 ==Clôture d'une Issue==
-  * Ne pas mettre le statut fixed trop vite !! En effet une fois ce statut mis, il est plus difficile de mettre un commentaire (nécessité d'avoir une branche ouverte)
+  * Bien réfléchir avant mettre le statut fixed trop vite !! En effet une fois ce statut mis, il est plus difficile de mettre un commentaire (nécessité d'avoir une branche de code ouverte)
   * Une fois l'Issue close, penser à mettre un commentaire pour expliquer grosso modo ce qui a été fait.
 
 Si vous avez d'autres suggestions, n'hésitez pas à modifier cette page.
