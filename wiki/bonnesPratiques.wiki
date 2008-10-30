@@ -1,4 +1,4 @@
-#summary résumé des bonnes pratiques à suivre pour la maintenance du site
+#summary Listes des bonnes pratiques à suivre pour la maintenance du site
 #labels Phase-Support
 
 = Bonnes Pratiques =
