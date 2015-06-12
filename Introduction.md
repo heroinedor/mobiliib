@@ -1,0 +1,8 @@
+# Mobilib #
+
+Bienvenue sur le site de gestion communautaire du site web de Mobilib
+
+
+# Equipe #
+
+Suite à la réunion du 26 septembre 2008, une équipe de 4 personnes s'est constituée pour permettre la maintenance et l'évolution du site Web de l'association Mobilib.
